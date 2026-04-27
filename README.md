@@ -20,7 +20,6 @@
             </address>
         </div>
     </header>
-
     <main>
         <section class="skills">
             <h3 class="section-title">Skills</h3>
