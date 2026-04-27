@@ -25,16 +25,12 @@
             <h3 class="section-title">Skills</h3>
             <p>
                 HTML,CSS and Javascript, Shopify Store Designer, Good communication, and Problem Solving.
-
             </p>
         </section>
-
         <section class="education">
             <h3 class="section-title">Education</h3>
-            <p>Alama Iqbal School, Daulat Nagar - Matriculation</p>
-            
+            <p>Alama Iqbal School, Daulat Nagar - Matriculation</p>           
         </section>
-
         <section class="experience">
             <h3 class="section-title">Experience</h3>
             <article>
@@ -53,12 +49,8 @@
                     <li>
                         Communicated with clients to understand needs and deliver projects on time.
                     </li>
-                </ul>
-                
+                </ul>              
             </article>
-
-            
-
         <section class="internet">
             <h3 class="section-title">Across the Internet</h3>
             <a href="https://github.com/aliyan-yousaf">GitHub</a>
